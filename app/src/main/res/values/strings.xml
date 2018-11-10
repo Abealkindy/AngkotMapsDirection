@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rute Angkot</string>
+    <string name="title_activity_search_location">Search Route</string>
+    <string name="route_list">Route List</string>
+    <string name="directionsApiKey">AIzaSyBix1K-Or_RD4p0-GDr5X1b4pbr1aYg9C4</string>
+    <string name="from_hint">From</string>
+    <string name="destination_hint">Destination</string>
+    <string name="see_route_text">See Route</string>
+    <string name="see_route_list_button_text">See Route List</string>
+    <string name="search_route_button_text">Search Route</string>
+    <string name="about_developer_button_text">About Developer</string>
+    <string name="route_text">Routes : </string>
+</resources>

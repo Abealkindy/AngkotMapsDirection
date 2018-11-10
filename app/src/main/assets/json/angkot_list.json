@@ -1,0 +1,185 @@
+{
+  "results": [
+    {
+      "angkot_name": "Jurusan 01",
+      "lat_origin": -6.335649,
+      "lng_origin": 108.3326692,
+      "lat_destination": -6.335649,
+      "lng_destination": 108.3326692,
+      "tempat_tujuan": [
+        {
+          "nama_tujuan": "JL. Jendral Sudirman (Terminal Sudirman)",
+          "lat_tujuan": -6.335649,
+          "lng_tujuan": 108.3326692
+        },
+        {
+          "nama_tujuan": "JL. Let Jend Suprapto (Toko La Roti)",
+          "lat_tujuan": -6.3340711,
+          "lng_tujuan": 108.3235713
+        },
+        {
+          "nama_tujuan": "JL. Kembar (Rumah Sakit MM)",
+          "lat_tujuan": -6.3439392,
+          "lng_tujuan": 108.3213166
+        },
+        {
+          "nama_tujuan": "JL. Olah Raga (Kantor Kementrian Agama)",
+          "lat_tujuan": -6.3403367,
+          "lng_tujuan": 108.3345288
+        },
+        {
+          "nama_tujuan": "JL. Raya Singa Raja (Warung Baso Nang Ito)",
+          "lat_tujuan": -6.3501294,
+          "lng_tujuan": 108.356258
+        },
+        {
+          "nama_tujuan": "JL. Ir. HJ. Juanda (Gardu Induk Listrik)",
+          "lat_tujuan": -6.3453311,
+          "lng_tujuan": 108.3440475
+        },
+        {
+          "nama_tujuan": "JL. Jendral Sudirman (Terminal Sudirman)",
+          "lat_tujuan": -6.335649,
+          "lng_tujuan": 108.3326692
+        }
+      ]
+    },
+    {
+      "angkot_name": "Jurusan 03",
+      "lat_origin": -6.335649,
+      "lng_origin": 108.3326692,
+      "lat_destination": -6.349106,
+      "lng_destination": 108.3251053,
+      "tempat_tujuan": [
+        {
+          "nama_tujuan": "JL. Jendral Sudirman (Terminal Sudirman)",
+          "lat_tujuan": -6.335649,
+          "lng_tujuan": 108.3326692
+        },
+        {
+          "nama_tujuan": "JL. Siliwangi (Masjid Al Huda)",
+          "lat_tujuan": -6.3197198,
+          "lng_tujuan": 108.3244551
+        },
+        {
+          "nama_tujuan": "JL. MT Haryono (Dinas Kesehatan Kabupaten Indramayu)",
+          "lat_tujuan": -6.327511,
+          "lng_tujuan": 108.3175936
+        },
+        {
+          "nama_tujuan": "JL. Soekarno Hatta (Matahari Cell)",
+          "lat_tujuan": -6.3546826,
+          "lng_tujuan": 108.3141658
+        },
+        {
+          "nama_tujuan": "Bundaran Mangga",
+          "lat_tujuan": -6.3527548,
+          "lng_tujuan": 108.3219069
+        },
+        {
+          "nama_tujuan": "JL. Jendral Sudirman (Terminal Sudirman)",
+          "lat_tujuan": -6.335649,
+          "lng_tujuan": 108.3326692
+        }
+      ]
+    },
+    {
+      "angkot_name": "Jurusan 04",
+      "lat_origin": -6.335649,
+      "lng_origin": 108.3326692,
+      "lat_destination": -6.349106,
+      "lng_destination": 108.3251053,
+      "tempat_tujuan": [
+        {
+          "nama_tujuan": "JL. Jendral Sudirman (Terminal Sudirman)",
+          "lat_tujuan": -6.335649,
+          "lng_tujuan": 108.3326692
+        },
+        {
+          "nama_tujuan": "JL. Tanjung Pura",
+          "lat_tujuan": -6.3406424,
+          "lng_tujuan": 108.3274164
+        },
+        {
+          "nama_tujuan": "JL. Let Jendral Suprapto",
+          "lat_tujuan": -6.3380989,
+          "lng_tujuan": 108.3223377
+        },
+        {
+          "nama_tujuan": "JL. Perjuangan",
+          "lat_tujuan": -6.3422031,
+          "lng_tujuan": 108.3177764
+        },
+        {
+          "nama_tujuan": "JL. MT Haryono",
+          "lat_tujuan": -6.3433227,
+          "lng_tujuan": 108.312639
+        },
+        {
+          "nama_tujuan": "JL. Gatot Subroto",
+          "lat_tujuan": -6.3466579,
+          "lng_tujuan": 108.3289657
+        },
+        {
+          "nama_tujuan": "Jalan Bima Basuki",
+          "lat_tujuan": -6.3334827,
+          "lng_tujuan": 108.3226277
+        },
+        {
+          "nama_tujuan": "JL. Jendral Sudirman (Terminal Sudirman)",
+          "lat_tujuan": -6.335649,
+          "lng_tujuan": 108.3326692
+        }
+      ]
+    },
+    {
+      "angkot_name": "Jurusan 05",
+      "lat_origin": -6.335649,
+      "lng_origin": 108.3326692,
+      "lat_destination": -6.3272021,
+      "lng_destination": 108.3234854,
+      "tempat_tujuan": [
+        {
+          "nama_tujuan": "JL. Jendral Sudirman (Terminal Sudirman)",
+          "lat_tujuan": -6.335649,
+          "lng_tujuan": 108.3326692
+        },
+        {
+          "nama_tujuan": "JL. Gatot Subroto",
+          "lat_tujuan": -6.3466579,
+          "lng_tujuan": 108.3289657
+        },
+        {
+          "nama_tujuan": "JL. Pasar Baru",
+          "lat_tujuan": -6.342744,
+          "lng_tujuan": 108.3289343
+        },
+        {
+          "nama_tujuan": "JL. Cimanuk Barat",
+          "lat_tujuan": -6.3364808,
+          "lng_tujuan": 108.3211364
+        },
+        {
+          "nama_tujuan": "JL. Yos Sudarso",
+          "lat_tujuan": -6.3237386,
+          "lng_tujuan": 108.324729
+        },
+        {
+          "nama_tujuan": "Karangsong",
+          "lat_tujuan": -6.3119297,
+          "lng_tujuan": 108.3328353
+        },
+        {
+          "nama_tujuan": "JL. Pahlawan",
+          "lat_tujuan": -6.3353493,
+          "lng_tujuan": 108.340172
+        },
+        {
+          "nama_tujuan": "JL. Jendral Sudirman (Terminal Sudirman)",
+          "lat_tujuan": -6.335649,
+          "lng_tujuan": 108.3326692
+        }
+      ]
+    }
+  ]
+}
